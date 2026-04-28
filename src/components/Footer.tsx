@@ -16,14 +16,7 @@ export default function Footer() {
             <p className="text-on-surface-variant text-sm leading-relaxed font-light">
               Empowering the next generation of global medical professionals through ethical guidance and world-class educational partnerships.
             </p>
-            <div className="flex gap-4">
-              <button className="w-10 h-10 rounded-full bg-surface-container-low flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors">
-                <Share2 className="w-5 h-5" />
-              </button>
-              <button className="w-10 h-10 rounded-full bg-surface-container-low flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors">
-                <Globe className="w-5 h-5" />
-              </button>
-            </div>
+          
           </div>
 
           <div>
