@@ -21,7 +21,7 @@ export const universities: University[] = [
     ranking: '3rd in Russia # QS World 246',
     students: 'Students from 15 Countries',
     description: 'Novosibirsk State University is one of Russia\'s leading educational and research centers. Located in the world-famous scientific center of Akademgorodok, it provides a unique environment where education and science are deeply integrated. The Medical Department offers high-quality training with access to advanced laboratories and clinical facilities.',
-    image: 'https://i.pinimg.com/1200x/8d/61/4a/8d614a73068ba7b28f26796372cf395c.jpg',
+    image: '/images/Novosibirsk State University.jpg',
     features: ['Research Intensive', 'English Medium', 'NMC / WHO Approved', 'Scientifically Rich Environment'],
   },
   {
@@ -33,7 +33,7 @@ export const universities: University[] = [
     ranking: '5th Ranked Medical University in Russia',
     students: '2500+ Indian Students',
     description: 'Bashkir State Medical University is a flagship medical school in the Russian Federation and the center of medical and pharmaceutical science of the Republic of Bashkortostan. It has a high reputation for its clinical training and extensive simulation centers, making it a preferred choice for thousands of international aspirants.',
-    image: 'https://i.pinimg.com/736x/3f/3a/4a/3f3a4a53c872daad769bcd7329704189.jpg',
+    image: '/images/Bashkir State Medical University.jpg',
     features: ['High Clinical Exposure', 'Largest Simulation Center', 'NMC approved curriculum', 'Active Student Life'],
   },
   {
@@ -45,7 +45,7 @@ export const universities: University[] = [
     ranking: 'World\'s Cheapest Medical University',
     students: '650+ Indian Students',
     description: 'Ingush State University is one of the youngest public universities in Russia. The Medical Faculty is known for its high-quality education and very affordable fee structure, attracting many international students especially from India. It features Indian faculty members and food facilities.',
-    image: 'https://rmgoe.org/universities/Abroad/image/1748855677_ingush-state-medical-university.png',
+    image: '/images/Ingush State Medical University.png',
     features: ['Lowest Fee Structure', 'Indian Faculty', 'Indian Food Availability', 'Modern Campus'],
   },
   {
@@ -57,7 +57,7 @@ export const universities: University[] = [
     ranking: 'Century Old Legacy',
     students: 'Global Alumni Network',
     description: 'Derzhavin Tambov State University is a major higher education institution in the central region of Russia. Its Medical Institute offers a robust MBBS program with a strong focus on practical skills and ethical medical practice, supported by a century-old academic tradition.',
-    image: 'https://ik.imagekit.io/syustaging/SYU_PREPROD/Campus_Uq6-Dbg2GG.webp?tr=w-3840',
+    image: '/images/Tambov State University.webp',
     features: ['Tradition of Ethics', 'Comprehensive Labs', 'Supportive Environment', 'Verified Accreditation'],
   },
   {
@@ -69,7 +69,7 @@ export const universities: University[] = [
     ranking: 'Top 10 Ranked University in Russia',
     students: 'QS World Rank 800',
     description: 'Tyumen State Medical University is a leading center of medical education and science in the Ural Federal District. It is recognized for its high teaching standards and significant contributions to medical research, providing students with extensive clinical opportunities.',
-    image: 'https://smapse.com/storage/2021/12/tyumen-state-medical-university-smapse.jpg',
+    image: '/images/Tyumen State Medical University.jpg',
     features: ['Scientific Innovation', 'Strong Research Base', 'High Graduate Success', 'Modern Clinical Tools'],
   },
   {
@@ -81,7 +81,7 @@ export const universities: University[] = [
     ranking: 'Major Regional Medical Hub',
     students: 'Strategic Location',
     description: 'Located in Yekaterinburg, the Ural State Medical University is a major hub for medical training in Russia. It offers a comprehensive clinical curriculum and has strong ties with regional hospitals, ensuring students get hands-on experience in a variety of medical scenarios.',
-    image: 'https://universityinsights.in/wp-content/uploads/2025/01/11-ural-state-medical-university.webp',
+    image: '/images/Ural State Medical University.webp',
     features: ['Regional Clinical Hub', 'Extensive Hospital Network', 'Proven Academic Record', 'International Environment'],
   },
   {
@@ -93,7 +93,7 @@ export const universities: University[] = [
     ranking: 'Excellence in Medical Pedagogy',
     students: 'Diverse International Community',
     description: 'Chuvash State University is known for its high-quality medical education and research. The Medical Faculty provides training in various specialties and is recognized by major global medical councils, making it an excellent choice for medical aspirants.',
-    image: 'https://eoclindia.com/wp-content/uploads/2025/07/Chuvash-State-University.webp',
+    image: '/images/Chuvash State Medical University.webp',
     features: ['Focused Pedagogy', 'Interactive Learning', 'WHO/NMC Registered', 'Safe Campus'],
   },
   {
@@ -105,7 +105,7 @@ export const universities: University[] = [
     ranking: 'Fast Growing Medical Institute',
     students: 'Strong International Presence',
     description: 'Ulyanovsk State University is a modern research university with a strong Medical Faculty. It offers high-standard medical training with a focus on both theoretical knowledge and practical clinical skills, preparing students for successful careers in healthcare.',
-    image: 'https://ik.imagekit.io/syustaging/SYU_PREPROD/image_1737378759557_WhJaajLQD.webp?tr=w-3840',
+    image: '/images/Ulyanovsk State University.webp',
     features: ['Modern Academic Block', 'Practical Skill Focus', 'Diverse Student Body', 'NMC Compliance'],
   },
   {
@@ -117,7 +117,7 @@ export const universities: University[] = [
     ranking: 'Historical Medical Academy',
     students: 'Legacy of Excellence',
     description: 'North Ossetian State Medical Academy is one of the oldest medical institutions in the Caucasus region. It has a rich tradition of medical education and is known for producing high-quality medical professionals who serve across the globe.',
-    image: 'https://tse3.mm.bing.net/th/id/OIP.JLdfMzZWzomiAOJL78ny-QHaC3?pid=Api&P=0&h=180',
+    image: '/images/North Ossetian State Medical University.jpeg',
     features: ['Caucasian Medical Legacy', 'Seasoned Faculty', 'Comprehensive Clinical Training', 'Traditional Values'],
   },
   {
@@ -129,7 +129,7 @@ export const universities: University[] = [
     ranking: 'Prestigious Caucasian Institution',
     students: 'Vibrant International Community',
     description: 'Kabardino-Balkarian State University is one of the leading educational centers in the South of Russia. The Medical Faculty is renowned for its academic rigor and excellent clinical facilities, attracting students from all over the world.',
-    image: 'https://www.worldwidecolleges.com/wp-content/uploads/classified-listing/2023/04/kbsu-banner.jpg',
+    image: '/images/Kabardino Balkarian State Medical University.jpg',
     features: ['High Academic Standards', 'Scenic Location', 'Extensive Labs', 'Diverse Opportunities'],
   },
   {
@@ -141,7 +141,7 @@ export const universities: University[] = [
     ranking: 'Resilient Academic Center',
     students: 'Steadily Increasing Indian Students',
     description: 'Chechen State University has a long history of excellence in medical training. After significant modernization, it now offers world-class facilities and a highly qualified faculty, making it a competitive choice for international medical education.',
-    image: 'https://www.worldwidecolleges.com/wp-content/uploads/classified-listing/2023/04/slide1.jpg',
+    image: '/images/Chechen State Medical University.jpg',
     features: ['Modernized Infrastructure', 'Proven Curriculum', 'Student Support Services', 'International Standards'],
   },
   {
@@ -153,19 +153,19 @@ export const universities: University[] = [
     ranking: 'Highly Ranked Medical University',
     students: 'Largest International Student Body',
     description: 'Kursk State Medical University is one of the top medical universities in Russia, renowned for its English-medium MBBS program. It was one of the first universities in Russia to offer medical courses in English to international students.',
-    image: 'https://gmfadmission.in/wp-content/uploads/2022/07/kursk-state-medical-university.jpeg',
+    image: '/images/Kursk State Medical University.jpeg',
     features: ['Pioneer in English Medium', 'Top National Ranking', 'Extensive Foreign Presence', 'Elite Faculty'],
   },
   {
     id: 'mordovia-state',
-    name: 'Mordovia State University',
+    name: 'Mordovia State Medical University',
     location: 'Saransk',
     country: 'Russia',
     established: '1931',
     ranking: 'Leading Research University',
     students: 'Central Russian Academic Hub',
     description: 'N.P. Ogarev Mordovia State University is a major research university in Central Russia. Its Medical Institute offers high-quality training with a strong focus on scientific research and clinical practice, utilizing advanced medical equipment.',
-    image: 'https://www.moksh16.com/uploads/images/alte-university-school-of-medicine-georgia/Russia/mordovia-state-university.webp',
+    image: '/images/Mordovia State Medical University.webp',
     features: ['Scientific Heritage', 'High Research Output', 'Modern Campus Facilities', 'Global Recognition'],
   },
   {
@@ -177,7 +177,7 @@ export const universities: University[] = [
     ranking: 'Renowned Clinical Institution',
     students: 'Wide International Network',
     description: 'Volgograd State Medical University is highly esteemed both nationally and internationally. It is known for its strong focus on clinical practice and its affiliations with numerous multidisciplinary hospitals and clinics.',
-    image: 'https://www.moksh16.com/uploads/page/volgograd-state-medical-university.jpg',
+    image: '/images/Volgograd State Medical University.jpg',
     features: ['Clinical Prowess', 'Hospital Affiliations', 'Experienced Mentorship', 'WDOMS Listed'],
   },
   {
@@ -189,7 +189,7 @@ export const universities: University[] = [
     ranking: 'Premier Institution in St. Petersburg',
     students: 'Elite Medical Community',
     description: 'Named after the famous biologist I.I. Mechnikov, this university is a premier medical institution in St. Petersburg. It offers top-tier medical education with a deep historical background and access to some of the best hospitals in Russia.',
-    image: 'https://tse3.mm.bing.net/th/id/OIP.iZ8-w65mnZiTbdXRuU73jgHaEK?pid=Api&P=0&h=180',
+    image: '/images/North Western State Medical University I.I Mechnikov.jpeg',
     features: ['Imperial Academic Legacy', 'St. Petersburg clinical network', 'Leading Research Center', 'High Competitive Score'],
   },
   {
@@ -201,7 +201,7 @@ export const universities: University[] = [
     ranking: 'Innovative Research Center',
     students: 'Core Medical Institution',
     description: 'Privolzhsky Research Medical University is a major center for medical education and science in the Volga Federal District. It focuses on integrating education with advanced clinical research, providing students with a forward-looking medical education.',
-    image: 'https://tse2.mm.bing.net/th/id/OIP.xBTKM1zRh0WEeJbrzE_gvQHaDh?pid=Api&P=0&h=180',
+    image: '/images/Privolzhsky Research Medical University.jpeg',
     features: ['Innovation Driven', 'Modern Research Labs', 'Strong Professional Placements', 'Global Exchange Programs'],
   },
   {
@@ -213,7 +213,7 @@ export const universities: University[] = [
     ranking: 'Historically Significant College',
     students: 'Preferred by Indian Students',
     description: 'Tver State Medical University is one of the most famous and highly respected medical school in Russia. It has been training international students for decades and is well-known for its welcoming environment and solid teaching foundation.',
-    image: 'https://mbbs-russia.in/wp-content/uploads/2025/01/Tver-State-Medical-University.jpg',
+    image: '/images/Tver State Medical University.jpg',
     features: ['Long History of Int\'l Teaching', 'Close to Moscow', 'Excellent Faculty Ratio', 'Strong Alumni Base'],
   },
   {
@@ -225,7 +225,7 @@ export const universities: University[] = [
     ranking: 'Global Research Leader',
     students: 'Interdisciplinary Training',
     description: 'Lobachevsky University is one of the leading research universities in Russia. Its medical programs are characterized by an interdisciplinary approach, combining traditional clinical training with advanced biology and biophysics research.',
-    image: 'https://media-cdn.sygictraveldata.com/media/1200x630/612664395a40232133447d33247d38313136333132363339',
+    image: '/images/Lobachevsky National Research Medical University.jpeg',
     features: ['National Research Status', 'Interdisciplinary Science', 'Modern Infrastructure', 'High Graduate Ranking'],
   },
   {
@@ -237,7 +237,7 @@ export const universities: University[] = [
     ranking: 'Prestigious Regional Center',
     students: 'Diverse International Body',
     description: 'Voronezh State Medical University is one of Russia\'s leading medical training schools. It has a high reputation for its educational standards and extensive clinical facilities, consistently producing skilled healthcare professionals.',
-    image: 'https://www.indomededucare.com/Admin/Indomed_AdminDash/Admin/collegeuploads/Voronezh-State-Medical-UniversityRussia.jpeg',
+    image: '/images/Voronezh State Medical University.jpeg',
     features: ['High Teaching Quality', 'Central City Location', 'Extensive Hospital Base', 'Student Exchange Network'],
   },
   {
@@ -249,7 +249,7 @@ export const universities: University[] = [
     ranking: 'Leading Volga Medical Uni',
     students: 'Innovative Medical Campus',
     description: 'Samara State Medical University is a modern and dynamic institution with a strong emphasis on clinical practice and innovative medical technologies. It plays a key role in the medical landscape of the Volga region.',
-    image: 'https://mbbs-russia.in/wp-content/uploads/2025/02/Samara-State-Medical-University.jpg',
+    image: '/images/Samara State Medical University.jpg',
     features: ['Modern Tech Exposure', 'Active Research Groups', 'Regional Healthcare Leader', 'Comprehensive Clinics'],
   },
   {
@@ -261,7 +261,7 @@ export const universities: University[] = [
     ranking: 'Academic Hub of Crimea',
     students: 'Rapidly Expanding Medical Faculty',
     description: 'Sevastopol State University is a major academic center in Sevastopol. Its medical faculty offers students modern education in a strategically important and beautiful coastal city, with a focus on contemporary medical practices.',
-    image: 'https://tse4.mm.bing.net/th/id/OIP.NEc-ZHO5suPa7L2_74yHVQHaE6?pid=Api&P=0&h=180',
+    image: '/images/Sevastopol State University.jpeg',
     features: ['Coastal Campus', 'Modern Study Facilities', 'Growing Clinical Base', 'Diverse Disciplines'],
   },
   {
@@ -273,7 +273,7 @@ export const universities: University[] = [
     ranking: 'Top Tier Russian Institution',
     students: 'Huge Indian Student Count',
     description: 'Crimea Federal University is a globally recognized institution known for its high standards of medical education and its large community of international students, particularly from India.',
-    image: 'https://crimeanfederaluniversity.com/wp-content/uploads/2025/02/2015-11-19.jpg',
+    image: '/images/Crimea Federal University.jpg',
     features: ['High FMGE Results', 'Well-Equipped Campus', 'Indian Food Availability', 'Affordable Lifestyle'],
   },
   {
@@ -285,7 +285,7 @@ export const universities: University[] = [
     ranking: 'Specialized Research Leader',
     students: 'Elite Science Students',
     description: 'MEPHI is one of Russia\'s most prestigious scientific universities. Its medical faculty in Obninsk specializes in nuclear medicine and high-tech medical research, providing students with unique advanced skills.',
-    image: 'https://tse3.mm.bing.net/th/id/OIP.8WqLmL_nsBdzRDtx0oXQ3gHaEK?pid=Api&P=0&h=180',
+    image: '/images/MEPHI National Nuclear Research University (Obninsk).jpeg',
     features: ['Nuclear Medicine Focus', 'High-Tech Facilities', 'Elite Research Groups', 'Scientific Reputation'],
   },
   {
@@ -297,7 +297,7 @@ export const universities: University[] = [
     ranking: 'Prestigious Moscow Academy',
     students: 'Top Tier Aspirants',
     description: 'MEPHI\'s main campus in Moscow is a legendary institution of Russian science. Its medical programs benefit from the university\'s massive scientific resources and location in the capital city of Russia.',
-    image: 'https://tse4.mm.bing.net/th/id/OIP.Mv5lZk7hF2uM8NgGnquedwHaE7?pid=Api&P=0&h=180',
+    image: '/images/MEPHI National Nuclear Research University (Moscow).jpeg',
     features: ['Moscow Campus Advantage', 'World-Class Faculty', 'Advanced Theoretical Training', 'Global Science Network'],
   },
   {
@@ -309,7 +309,7 @@ export const universities: University[] = [
     ranking: 'Top Rated Medical Institution',
     students: 'Third Oldest Medical Uni in Russia',
     description: 'Kazan State Medical University has a glorious history of over two centuries. It is consistently ranked among the top medical universities in Russia and is recognized worldwide for its academic excellence.',
-    image: 'https://www.kazangmu.com/assets/img/advantage/advantage.jpg',
+    image: '/images/Kazan State Medical University.jpg',
     features: ['200+ Year Legacy', 'Top National Position', 'Diverse Global Students', 'Modern Training Hospital'],
   },
   {
@@ -321,7 +321,7 @@ export const universities: University[] = [
     ranking: 'Flagship of Russian Far East',
     students: 'High-Tech Island Campus',
     description: 'FAR Eastern Federal University features one of the most modern and beautiful campuses in the world, located on Russky Island. Its School of Medicine is equipped with state-of-the-art medical technology.',
-    image: 'https://blog.rmgoe.org/wp-content/uploads/2022/06/Far-Eastern-Federal-University.jpg',
+    image: '/images/Far Eastern Federal University.webp',
     features: ['Modern Island Campus', 'Advanced Clinical Center', 'Global Partnerships', 'Unique Strategic Location'],
   },
   {
@@ -333,7 +333,7 @@ export const universities: University[] = [
     ranking: 'Contemporary Medical School',
     students: 'Balanced Student Mix',
     description: 'Novgorod State University is a dynamic and fast-growing institution. Its medical faculty offers modern curricula and benefits from the university\'s high-tech environment and historical location.',
-    image: 'https://tse2.mm.bing.net/th/id/OIP.k1qdwU8HaK_K3s9lwp6FEwHaEL?pid=Api&P=0&h=180',
+    image: '/images/Yaroslav The Wise Novgorod State University.jpeg',
     features: ['Historical Location', 'Modern Teachings', 'Supportive International Office', 'Effective Labs'],
   },
   {
@@ -345,7 +345,7 @@ export const universities: University[] = [
     ranking: 'Strong Caucasian Academic Center',
     students: 'Active Student Life',
     description: 'North Caucasian State University is a key institution for medical education in the Caucasian region, known for its practical approach and well-qualified teaching staff.',
-    image: 'https://www.worldwidecolleges.com/wp-content/uploads/classified-listing/2024/02/North-Caucasian-State-Academy-Russia.webp',
+    image: '/images/North Caucasian State Medical University.webp',
     features: ['Regional Clinical Focus', 'Dedicated Faculties', 'Active Campus Life', 'Modernizing Facilities'],
   },
   {
@@ -357,7 +357,7 @@ export const universities: University[] = [
     ranking: 'Leading Siberian Academy',
     students: 'Seasoned International Presence',
     description: 'Omsk State Medical University is one of the oldest medical schools in Siberia. It is a major center for healthcare education and research, providing a solid foundation for medical careers.',
-    image: 'https://www.justmbbs.com/img/college/russia/omsk-state-medical-university-banner.jpg',
+    image: '/images/OMSK State Medical University.jpg',
     features: ['Century of Tradition', 'Solid Siberian Legacy', 'Extensive Clinic Access', 'NMC Recognized'],
   },
   {
@@ -369,7 +369,7 @@ export const universities: University[] = [
     ranking: 'Southern Russia Excellence Hub',
     students: 'Large International Body',
     description: 'Rostov State Medical University is a distinguished medical institution in Southern Russia, famous for its clinical training and wide-ranging hospital network.',
-    image: 'https://tse2.mm.bing.net/th/id/OIP.aeAbaQb0wwkCkP3khZOQOgHaEK?pid=Api&P=0&h=180',
+    image: '/images/Rostov State Medical University.jpeg',
     features: ['Southern Hub Status', 'Vast Hospital Network', 'Experienced Academicians', 'Vibrant Urban Campus'],
   },
   {
@@ -381,7 +381,7 @@ export const universities: University[] = [
     ranking: 'Stable Educational Growth',
     students: 'Expanding Foreign Cohort',
     description: 'Orel State University offers high-quality medical education with a focus on practical residency opportunities and individual student development.',
-    image: 'https://tse3.mm.bing.net/th/id/OIP.kQ35kvAtl4aoGqJSMwXrFQHaGJ?pid=Api&P=0&h=180',
+    image: '/images/Orel State Medical University.jpeg',
     features: ['Focused Study Plans', 'Practical Residency Focus', 'Integrated Campus', 'Strong Support Teams'],
   },
   {
@@ -393,7 +393,7 @@ export const universities: University[] = [
     ranking: 'Russia\'s European Enclave Gateway',
     students: 'European Living Standards',
     description: 'Located in Kaliningrad, IKBFU offers a unique experience for students in Russia\'s westernmost enclave, with standards often reflecting European academic values.',
-    image: 'https://tse2.mm.bing.net/th/id/OIP.BLFPH4rnQK-eG1VaHkhdzQHaDc?pid=Api&P=0&h=180',
+    image: '/images/Immanuel Kant Baltic Federal University.jpeg',
     features: ['European Location Advantage', 'Ultra-Modern Facilities', 'High-Level Int\'l Integration', 'Top-Tier Dormitories'],
   },
   {
@@ -405,7 +405,7 @@ export const universities: University[] = [
     ranking: 'Highly Regarded Medical Uni',
     students: 'Community-Focused Training',
     description: 'Kirov State Medical University is known for its strong focus on community medicine and providing high-quality practical training in municipal hospitals.',
-    image: 'https://www.red-russia.com/wp-content/uploads/2020/05/Kirov-Medical-University.jpg',
+    image: '/images/Kirov State Medical University.jpg',
     features: ['Community Medicine Focus', 'Hands-on Clinical Training', 'Supportive Local Environment', 'NMC Syllabus Compliance'],
   },
   {
@@ -417,7 +417,7 @@ export const universities: University[] = [
     ranking: 'Classic Medical Heritage',
     students: 'Solid Academic Environment',
     description: 'Ivanovo State Medical Academy is a traditional medical school providing solid academic foundations and rigorous clinical training programs.',
-    image: 'https://static.wixstatic.com/media/d7b115_ff95ef13beb44564b8147463355d157f~mv2.jpg/v1/crop/x_137,y_33,w_278,h_374/fill/w_389,h_524,al_c,lg_1,q_80,enc_auto/85_big.jpg',
+    image: '/images/Ivanovo State Medical University.avif',
     features: ['Rigorous Academic Training', 'Established Clinical Roots', 'Central Russian Location', 'Global Compatibility'],
   },
   {
@@ -429,7 +429,7 @@ export const universities: University[] = [
     ranking: 'Major Siberian Medical Center',
     students: 'Practical Innovation Hub',
     description: 'Kemerovo State Medical University is a key provider of healthcare education in Siberia, integrating traditional teaching with modern clinical research.',
-    image: 'https://universityinsights.in/wp-content/uploads/2025/01/9-kemerovo-state-medical-university.webp',
+    image: '/images/Kemerovo State Medical University.png',
     features: ['Siberian Medical Hub', 'Focus on Research Skills', 'Affordable Living', 'Certified Medical Faculty'],
   },
   {
@@ -441,7 +441,7 @@ export const universities: University[] = [
     ranking: 'Southern Elite Academy',
     students: 'Diverse International Population',
     description: 'Astrakhan State Medical University has a rich history and is located in a culturally diverse region, providing a unique multicultural atmosphere for students.',
-    image: 'https://static.wixstatic.com/media/9cdbfb_7495f12f32aa4c0aa16e30d7cd6bb3d7~mv2.jpg/v1/fill/w_900,h_527,al_c,q_85/Astrakhan%20State%20Medical%20University%20Russia.jpg',
+    image: '/images/Astrakhan State Medical University.jpg',
     features: ['Multicultural Environment', 'Centuries of Influence', 'Integrated Clinical Training', 'Southern Climate Advantage'],
   },
   {
@@ -453,7 +453,7 @@ export const universities: University[] = [
     ranking: 'Far Eastern Academic Leader',
     students: 'Strategic Border Campus',
     description: 'Located in the Far East, Amur State Medical Academy provides a high-quality education with a focus on cross-border medical cooperation and research.',
-    image: 'https://tse3.mm.bing.net/th/id/OIP.fo4ak7pURSZ-Q1i-fgIOewHaFQ?pid=Api&P=0&h=180',
+    image: '/images/Amur State Medical University.jpeg',
     features: ['Strategic Far East Location', 'Practical skill enrichment', 'Safe & quiet surroundings', 'International Recognition'],
   },
   {
@@ -465,7 +465,7 @@ export const universities: University[] = [
     ranking: 'Respected Siberian Institution',
     students: 'Hands-on Learning Focus',
     description: 'Chita State Medical Academy is well-known for its emphasis on clinical exposure from early years of study, preparing students for real-world medical challenges.',
-    image: 'https://studypalacehub.com/wp-content/uploads/2025/06/Chita-State-Medical-Academy.webp',
+    image: '/images/Chita State Medical University.webp',
     features: ['Early Clinical Exposure', 'Expert Training Staff', 'Cozy Academic environment', 'Full MCI/NMC support'],
   },
   {
@@ -477,7 +477,7 @@ export const universities: University[] = [
     ranking: 'One of Oldest Universities in Siberia',
     students: 'Elite Research Community',
     description: 'Located in the student city of Tomsk, Siberian State Medical University is a legendary scientific institution with a historical legacy of groundbreaking medical discovery.',
-    image: 'https://tse4.mm.bing.net/th/id/OIP.Fci5dJS1WFmJlcNIPNp2_QHaE8?pid=Api&P=0&h=180',
+    image: '/images/Siberian State Medical University.jpeg',
     features: ['Scientific Heritage', 'Famous "Student City" Location', 'World-Class Bio-Reseach', 'High Int\'l prestige'],
   },
   {
@@ -489,7 +489,7 @@ export const universities: University[] = [
     ranking: 'Arctic Medical Research Center',
     students: 'Unique Extreme Climate Training',
     description: 'Northern State Medical University provides high-quality education with a specialization in medicine for Northern and Arctic regions, which is unique globally.',
-    image: 'https://www.moksh16.com/uploads/images/northern-state-university.webp',
+    image: '/images/Northern State Medical University.webp',
     features: ['Arctic Medicine Focus', 'Established Research Base', 'Global Medical Connections', 'NMC Aligned syllabus'],
   },
   {
@@ -501,7 +501,7 @@ export const universities: University[] = [
     ranking: 'Premier Regional Institution',
     students: 'Strategic Academic Presence',
     description: 'Perm State Medical University is a distinguished center of medical education and science, consistently training high-level international medical specialists for over a century.',
-    image: 'https://tse4.mm.bing.net/th/id/OIP.Neh9BVYiQ7KNjir2AGk_TwHaDm?pid=Api&P=0&h=180',
+    image: '/images/Perm State Medical University.jpeg',
     features: ['Elite Status', 'Centenary Legacy', 'Exquisite Campus Facilities', 'NMC/WHO Compliance'],
   },
   {
@@ -513,7 +513,7 @@ export const universities: University[] = [
     ranking: 'Emerging Excellence Academy',
     students: 'Very Popular with Indian Students',
     description: 'Mari State Medical University is extremely popular with international medical aspirants due to its high standards, modern infrastructure, and student-friendly environment.',
-    image: 'http://www.maristateuniversity.com/images/bb3.jpg',
+    image: '/images/Mari State Medical University.jpg',
     features: ['High Success Rates', 'Popular Indian Hub', 'Ultra-Modern Labs', 'Dedicated Support Team'],
   },
   {
@@ -525,7 +525,7 @@ export const universities: University[] = [
     ranking: 'Southern Russian Elite',
     students: 'Strong International Links',
     description: 'Orenburg State Medical University is recognized for its high academic quality and extensive clinical practice programs, with strong connections to European and Asian medical institutions.',
-    image: 'https://tse2.mm.bing.net/th/id/OIP.itgQO8I8k69dVpt3ix9u2QHaEQ?pid=Api&P=0&h=180',
+    image: '/images/Orenburg State Medical University.jpeg',
     features: ['Strategic Clinical Positioning', 'High Teaching Caliber', 'Integrated Scientific Work', 'Global Compatibility'],
   },
   {
@@ -537,7 +537,7 @@ export const universities: University[] = [
     ranking: 'Leading Southern Medical Hub',
     students: 'Vibrant Clinical Network',
     description: 'Kuban State Medical University is one of the oldest and most respected medical schools in Southern Russia, offering comprehensive clinical training across its vast hospital network.',
-    image: 'https://tse2.mm.bing.net/th/id/OIP.wFyA3a5vVAwaCgS_51AvgQHaDt?pid=Api&P=0&h=180',
+    image: '/images/Kuban State Medical University.jpeg',
     features: ['Southern Medical Leadership', 'Massive Clinical Base', 'High Research Engagement', 'WDOMS Accredited'],
   },
   {
@@ -549,7 +549,7 @@ export const universities: University[] = [
     ranking: 'Top Rated in Jilin Province',
     students: 'Large International Presence',
     description: 'Beihua University is a key comprehensive university in Jilin Province. The Medical College has a century-long history, offering high-standard medical education with advanced clinical training facilities and a focus on global health standards.',
-    image: 'https://vmap.co.in/assets/display_img/Beihua-University-China.jpg',
+    image: '/images/Beihua Medical University.jpg',
     features: ['Century of Academic History', 'Modern Research Center', 'MCI / WHO Approved', 'Clinical Excellence'],
   },
   {
@@ -561,7 +561,7 @@ export const universities: University[] = [
     ranking: 'Prestigious East China Institution',
     students: 'Global Alumni Network',
     description: 'Nantong University Medical College is one of the earliest medical schools in China. It is highly recognized for its rigorous academic curriculum and extensive network of affiliated hospitals, providing students with world-class clinical exposure.',
-    image: 'https://www.moksh16.com/uploads/images/china/nantong-university.webp',
+    image: '/images/Nantong Medical University.webp',
     features: ['High FMGE Success Rate', 'Historic Medical Legacy', 'Comprehensive Clinical Base', 'English Medium MBBS'],
   },
   {
@@ -573,7 +573,7 @@ export const universities: University[] = [
     ranking: 'High National Medical Rank',
     students: 'Scientific Research Hub',
     description: 'Guangzhou Medical University is a leading institution in South China. It is known for its strong emphasis on clinical medicine and respiratory diseases research, maintaining high standards of medical education and patient care.',
-    image: 'https://studyinchinas.com/wp-content/uploads/2019/07/gzmu1-e1562580300294.jpg',
+    image: '/images/Guangzhou Medical University.jpg',
     features: ['Southern Research Leader', 'State-of-the-Art Hospitals', 'Global Collaboration', 'NMC Compliance'],
   },
   {
@@ -585,7 +585,7 @@ export const universities: University[] = [
     ranking: 'Premier Medical College in Southwest China',
     students: 'Diverse International Body',
     description: 'Kunming Medical University is the largest medical university in Yunnan Province. It offers a rich academic environment with a focus on high-quality clinical training and public health research in a beautiful, multicultural setting.',
-    image: 'https://newtonian.com.np/wp-content/uploads/2024/03/kunming-medical-university-7.jpg',
+    image: '/images/Kunming Medical University.jpg',
     features: ['Southwest Medical Gateway', 'Extensive Internship Network', 'English Instruction', 'WDOMS listed'],
   },
   {
@@ -597,7 +597,7 @@ export const universities: University[] = [
     ranking: 'Uzbekistan No#1 Medical University',
     students: 'Highest FMGE Passing Ratio (48%)',
     description: 'Bukhara State Medical Institute is widely recognized as a premier destination for medical studies in Central Asia. It holds the highest FMGE passing ratio among all abroad universities (48% in 2024), making it a top choice for Indian students seeking clinical excellence.',
-    image: 'https://www.edufever.com/wp-content/uploads/2023/12/Bukhara-State-Medical-Institute.webp',
+    image: '/images/Bukhara State Medical Institute.webp',
     features: ['Highest FMGE Success', 'Clinical Focus', 'Worldwide Approvals', 'Indian Community Hub'],
   },
   {
@@ -609,7 +609,7 @@ export const universities: University[] = [
     ranking: 'Top Rated Medical University',
     students: '3000+ Indian Students',
     description: 'Established in 1930, Samarkand State Medical University is one of the oldest and most prestigious institutions in Uzbekistan. It offers a rich historical legacy combined with modern medical pedagogical standards, hosting a massive community of over 3000 Indian students.',
-    image: 'https://www.themdhouse.com/blog/wp-content/uploads/2023/08/Study-MBBS-in-Uzbekistan-1.jpg',
+    image: '/images/Samarkand State Medical University.jpg',
     features: ['90+ Years Legacy', 'Large Indian Cohort', 'Extensive Alumni Base', 'Cultural Heritage City'],
   },
   {
@@ -621,7 +621,7 @@ export const universities: University[] = [
     ranking: 'Leading Regional Medical Center',
     students: 'Robust Clinical Base',
     description: 'Andijan State Medical Institute has been a staple of medical education in the Fergana Valley for decades. It provides students with a balanced mix of theoretical medicine and practical clinical application in state-affiliated hospitals.',
-    image: 'https://tse1.mm.bing.net/th/id/OIP.m54OezMOgGgkyhJN-yQJBgHaE7?pid=Api&P=0&h=180',
+    image: '/images/Andijan State Medical University.jpeg',
     features: ['Established Clinical Roots', 'Fergana Valley Hub', 'English Medium Curriculum', 'Standardized Labs'],
   },
   {
@@ -633,7 +633,7 @@ export const universities: University[] = [
     ranking: 'Capital City Elite Academy',
     students: 'Merged Excellence (TMA, TDMI, TPMI)',
     description: 'Tashkent State Medical University represents a powerful merger of top medical academies (TMA, TDMI, and TPMI). Being in the capital city, it offers students unprecedented access to the country\'s largest clinical networks and specialized research centers.',
-    image: 'https://thinkedfirst.com/wp-content/uploads/2025/04/TSMU.jpg',
+    image: '/images/Tashkent State Medical University.webp',
     features: ['Merged Academic Power', 'Capital City Exposure', 'Advanced Research Wings', 'Elite Faculty Panel'],
   },
   {
@@ -645,7 +645,7 @@ export const universities: University[] = [
     ranking: 'Pioneer Medical Institution in Kyrgyzstan',
     students: 'Legacy of 80+ Years',
     description: 'Kyrgyz State Medical Academy is the oldest and most prestigious medical school in Kyrgyzstan. It is recognized by WHO and NMC (MCI), providing high-quality medical education with a strong emphasis on clinical rotations and research-based learning.',
-    image: 'https://www.theeducationabroad.com/uploads/university/Kyrgyz-State-Medical-Academy.webp',
+    image: '/images/Kyrgyz State Medical Academy.webp',
     features: ['Prime Location in Bishkek', 'Accredited by IAAR', 'High USMLE/NEXT passing rates', 'Vast clinical bases'],
   },
   {
@@ -657,7 +657,7 @@ export const universities: University[] = [
     ranking: 'Top-Rated for International Students',
     students: 'Highly Preferred Indian Community',
     description: 'ISM Bishkek is specifically designed for international students, offering 100% English-medium instruction. It is known for its modern teaching methods and high-tech simulation centers, ensuring graduates are globally competitive.',
-    image: 'https://educationaladvisors.org/wp-content/uploads/2020/04/college-3.jpg',
+    image: '/images/International School of Medicine (ISM).jpg',
     features: ['English-Only Curriculum', 'Standardized Medical Labs', 'Interactive Audio-Visual Classes', 'Diverse Campus Culture'],
   },
   {
@@ -669,7 +669,7 @@ export const universities: University[] = [
     ranking: 'Awarded for Academic Excellence',
     students: 'Dynamic Learning Environment',
     description: 'ASMI is dedicated to providing high-quality healthcare education at an accessible scale. It has a strong focus on student welfare and features dedicated coaching for international licensing exams like NEXT and PLAB.',
-    image: 'https://eaziline.com/wp-content/uploads/2022/10/asmi2022-4-1024x663.jpg',
+    image: '/images/Asian Medical Institute (ASMI).jpg',
     features: ['NEXT/FMGE Coaching', 'Modern Hostel Facilities', 'WHO/NMC Registered', 'Safe Suburban Environment'],
   },
   {
@@ -681,7 +681,7 @@ export const universities: University[] = [
     ranking: 'Largest and Oldest University in South Kyrgyzstan',
     students: 'High Clinical Exposure',
     description: 'Osh State University is one of the pillars of higher education in Central Asia. Its medical faculty is renowned for its academic rigor and extensive affiliations with regional hospitals, offering students unmatched hands-on training.',
-    image: 'https://careeradvice.in/mbbs-abroad/wp-content/uploads/2021/12/89924297_2881657131900950_1485627675857911808_n.jpg',
+    image: '/images/Osh State University.jpg',
     features: ['Large Regional Clinical Base', 'Experienced Professor Board', 'Cultural Heritage City', 'Standardized Medical Education'],
   },
   {
@@ -693,7 +693,7 @@ export const universities: University[] = [
     ranking: 'Top Medical University in Kazakhstan',
     students: 'Largest International Cohort',
     description: 'Named after S.D. Asfendiyarov, this is the oldest and leading medical university in Kazakhstan. It serves as the primary scientific and educational center for healthcare in the country, boasting a rich heritage and elite clinical facilities.',
-    image: 'https://tse4.mm.bing.net/th/id/OIP._yZ6guNm9UpMrnYKrELz2gHaE3?pid=Api&P=0&h=180',
+    image: '/images/Kazakh National Medical University (Asfendiyarov).jpeg',
     features: ['National Research Hub', 'Prime Almaty Location', '90+ Years Legacy', 'Premium Clinical Base'],
   },
   {
@@ -705,7 +705,7 @@ export const universities: University[] = [
     ranking: 'QS World Top 200 University',
     students: 'Global Academic Environment',
     description: 'Al-Farabi Kazakh National University is the leading institution in the system of higher education of the Republic of Kazakhstan. Its Medical Faculty offers students access to one of the most advanced academic campuses in Central Asia.',
-    image: 'https://edufever.in/colleges/wp-content/uploads/2022/06/al-farabi-kazakh-national-university-kazakhstan.webp',
+    image: '/images/Al-Farabi Kazakh National University.webp',
     features: ['Elite Global Ranking', 'Technological Smart Campus', 'Broad Research Spectrum', 'Diverse Student Life'],
   },
   {
@@ -717,7 +717,7 @@ export const universities: University[] = [
     ranking: 'Stable Clinical Growth',
     students: 'Strong Indian Student Base',
     description: 'Kazakh-Russian Medical University is one of the largest private universities in Kazakhstan. It provides students with modern medical training programs that are highly compatible with international clinical standards.',
-    image: 'https://ik.imagekit.io/syustaging/SYU_PREPROD/CAMPUS_8j14rb8dY.webp?tr=w-3840',
+    image: '/images/Kazakh Russian Medical University.webp',
     features: ['Modern Academic Block', 'Strong Clinical Partners', 'Affordable Lifestyle', 'Multicultural Campus'],
   },
   {
@@ -729,7 +729,7 @@ export const universities: University[] = [
     ranking: 'Innovation Forward Institution',
     students: 'Dynamic Learning Center',
     description: 'Caspian University is a multidisciplinary university that offers high-quality training across various fields, including a rapidly growing and modern medical faculty known for its student-centric approach.',
-    image: 'https://tse1.mm.bing.net/th/id/OIP.z8uLu4vh6RkL1HG1Iji7MQHaFZ?pid=Api&P=0&h=180',
+    image: '/images/Caspian Medical University.jpeg',
     features: ['Interactive Education', 'Innovative Simulation', 'Modern Library System', 'European Linkages'],
   },
   {
@@ -741,7 +741,7 @@ export const universities: University[] = [
     ranking: 'Key Northern Academic Center',
     students: 'Community Driven Academy',
     description: 'Sh. Ualikhanov Kokshetau University is a major educational pillar in Northern Kazakhstan. Its medical faculty is well-regarded for its practical training modules and friendly environment for international students.',
-    image: 'https://tse3.mm.bing.net/th/id/OIP.-MX8r425ia2E7-rVaBMaPQHaFA?pid=Api&P=0&h=180',
+    image: '/images/Kokshetau State University (Ualikhanov).jpeg',
     features: ['Regional Clinical Focus', 'Affordable Small-City Life', 'Established Science Base', 'Safe Environment'],
   },
   {
@@ -753,7 +753,7 @@ export const universities: University[] = [
     ranking: 'Leading Southern Medical Hub',
     students: 'Dedicated Medical Specialist Training',
     description: 'SKMA is located in Shymkent and is famous for its high-quality education and modern material-technical base. It focuses on training highly competitive medical specialists with strong practical experience.',
-    image: 'https://tse2.mm.bing.net/th/id/OIP.a30ho24rTEoy7q02-_dQJQHaEo?pid=Api&P=0&h=180',
+    image: '/images/South Kazakh Medical Academy.jpeg',
     features: ['Modern Clinical Equipment', 'Focused Medical Academy', 'Strong Scientific Work', 'Indian Food Availability'],
   },
   {
@@ -765,7 +765,7 @@ export const universities: University[] = [
     ranking: 'Legendary Clinical Legacy',
     students: 'Large International Presence',
     description: 'With over 70 years of history, Semey State Medical University is a major provider of medical education in the East Kazakhstan region. It is known for its experienced faculty and comprehensive clinical rotations.',
-    image: 'https://tse1.mm.bing.net/th/id/OIP.guTetr1I1ZwrJdAomrSQfAHaEQ?pid=Api&P=0&h=180',
+    image: '/images/Semey State Medical University.jpeg',
     features: ['Historic Academic Roots', 'Diverse Hospital Base', 'English Instruction', 'WDOMS Accredited'],
   },
   {
@@ -777,7 +777,7 @@ export const universities: University[] = [
     ranking: 'Strategic Western Medical Hub',
     students: 'High Research Output',
     description: 'M. Ospanov West Kazakhstan Medical University is a leading center of medical science and education in Western Kazakhstan. It emphasizes the integration of clinical practice with scientific innovation.',
-    image: 'https://nixstudyabroad.com/wp-content/uploads/2022/02/west-kazakhstan-marat-ospanov-state-medical-university.jpg',
+    image: '/images/West Kazakhstan State Medical University (Ospanov).webp',
     features: ['Scientific Research Base', 'Modern Diagnostics Center', 'Vast Regional Influence', 'MCI Recognized'],
   },
   {
@@ -789,7 +789,7 @@ export const universities: University[] = [
     ranking: 'No. 1 Medical University in Georgia',
     students: '6000+ Bedded Hospital',
     description: 'Established in 1918, Tbilisi State Medical University is the leading higher medical education institution in Georgia and the entire Caucasus region. It offers a rich historical legacy combined with modern European education standards, featuring massive clinical bases and a focus on global health excellence.',
-    image: 'https://tse3.mm.bing.net/th/id/OIP.q5moEqMPDKKU39FLCubGKQHaFj?pid=Api&P=0&h=180',
+    image: '/images/Tbilisi State Medical University.jpeg',
     features: ['European Education', '6000+ Bedded Hospital', 'Legacy since 1918', 'NMC / WHO Approved'],
   },
   {
@@ -801,7 +801,7 @@ export const universities: University[] = [
     ranking: 'Top Georgian Medical University',
     students: '3500+ Bedded Hospital',
     description: 'Located in the beautiful coastal city of Batumi, this university has been a center for academic research and professional training since 1895. It offers a comprehensive clinical program in a modern setting, accredited by major international medical bodies.',
-    image: 'https://tse2.mm.bing.net/th/id/OIP.Y1fotOxcFBYwbvuIc6hIxQHaDv?pid=Api&P=0&h=180',
+    image: '/images/Batumi Shota Rusteveli State University.jpeg',
     features: ['Coastal Campus', '3500+ Bedded Hospital', 'Established 1895', 'Modern Clinical Labs'],
   },
   {
@@ -813,7 +813,7 @@ export const universities: University[] = [
     ranking: 'Biggest Georgian University',
     students: '5000+ Bedded Hospital',
     description: 'SEU is the largest private university in Georgia, known for its ultra-modern infrastructure and American Doctor of Medicine (US-MD) program. It provides top-tier simulation centers and international exchange opportunities for its diverse student body.',
-    image: 'https://edufever.in/colleges/wp-content/uploads/2024/03/Georgian-National-University-SEU.webp',
+    image: '/images/Georgian National University (SEU).webp',
     features: ['US-MD Course', '5000+ Bedded Hospital', 'Ultra-Modern Campus', 'Innovation Leader'],
   },
   {
@@ -825,7 +825,7 @@ export const universities: University[] = [
     ranking: 'Top Rated for Int\'l Students',
     students: '3500+ Bedded Hospital',
     description: 'The University of Georgia is a prestigious institution in Tbilisi known for its high academic standards and student-centric approach. It offers a variety of specialized medical programs with a focus on practical residency and global recognition.',
-    image: 'https://tse1.mm.bing.net/th/id/OIP.NsfYUeJLTeOUBNSzAzRLcwHaDt?pid=Api&P=0&h=180',
+    image: '/images/University of Georgia.jpeg',
     features: ['European Standards', 'Practical Skill Focus', 'Modern Campus', 'Highly Ranked'],
   },
   {
@@ -837,7 +837,7 @@ export const universities: University[] = [
     ranking: 'Most Affordable Georgian University',
     students: '3000+ Bedded Hospital',
     description: 'IBSU is recognized for its high-quality education and affordability. It provides a multicultural environment and has strong ties with European research institutions, making it an excellent choice for medical aspirants.',
-    image: 'https://tse4.mm.bing.net/th/id/OIP.GU7bkjxjtOjdBrAN3SeiQwHaE7?pid=Api&P=0&h=180',
+    image: '/images/International Black Sea University.jpeg',
     features: ['Affordable Fees', 'Multicultural Campus', 'European Connections', 'Verified Clinical Bases'],
   },
   {
@@ -849,7 +849,7 @@ export const universities: University[] = [
     ranking: 'Premier Georgian Institution',
     students: '3500+ Bedded Hospital',
     description: 'Caucasus University offers a internationally recognized medical program that combines rigorous theoretical study with hands-on clinical practice in leading hospitals across Georgia, adhering to European educational guidelines.',
-    image: 'https://tse1.mm.bing.net/th/id/OIP.I1WihveHWCaEYU2Q_5ht0wHaEK?pid=Api&P=0&h=180',
+    image: '/images/Caucasus University.jpeg',
     features: ['European Credit System', 'Modern Hospital Network', 'Interactive Training', 'WHO/NMC Compliance'],
   }
 ];

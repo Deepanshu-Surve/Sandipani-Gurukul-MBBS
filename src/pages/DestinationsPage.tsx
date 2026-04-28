@@ -10,7 +10,7 @@ const destinations = [
     feeSuffix: '/year',
     duration: '6 Years',
     universities: ['Novosibirsk State', 'Bashkir State', 'Kazan State'],
-    img: 'https://images.unsplash.com/photo-1513326738677-b964603b136d?q=80&w=2049&auto=format&fit=crop',
+    img: '/images/Russia.avif',
   },
   {
     name: 'Uzbekistan',
@@ -19,7 +19,7 @@ const destinations = [
     feeSuffix: '/year',
     duration: '6 Years',
     universities: ['Bukhara State', 'Samarkand State', 'Tashkent State'],
-    img: 'https://i.pinimg.com/736x/e5/72/cb/e572cb0a4c6cd1047ddddc7d2ef7f58d.jpg',
+    img: '/images/Uzbekistan.jpg',
   },
   {
     name: 'Kazakhstan',
@@ -28,7 +28,7 @@ const destinations = [
     feeSuffix: '/year',
     duration: '6 Years',
     universities: ['Kazakh National', 'Al-Farabi', 'South Kazakh'],
-    img: 'https://i.pinimg.com/1200x/3d/27/71/3d2771f20e558a4a46f337c9c6a54826.jpg',
+    img: '/images/Kazakhstan.jpg',
   },
   {
     name: 'China',
@@ -37,7 +37,7 @@ const destinations = [
     feeSuffix: '/year',
     duration: '6 Years',
     universities: ['Beihua Medical', 'Nantong Medical', 'Guangzhou Medical'],
-    img: 'https://i.pinimg.com/736x/1b/17/c5/1b17c5f3669f6833ff94b1bd22cdb222.jpg',
+    img: '/images/china.jpg',
   },
   {
     name: 'Georgia',
@@ -46,7 +46,7 @@ const destinations = [
     feeSuffix: '/year',
     duration: '6 Years',
     universities: ['Tbilisi State', 'Batumi Shota', 'SEU National'],
-    img: 'https://i.pinimg.com/1200x/4c/aa/24/4caa24adbc4ff836d08184d19f457a93.jpg',
+    img: '/images/Georgia.jpg',
   },
   {
     name: 'Kyrgyzstan',
@@ -55,7 +55,7 @@ const destinations = [
     feeSuffix: '/year',
     duration: '6 Years',
     universities: ['Kyrgyz State', 'ISM Bishkek', 'Osh State'],
-    img: 'https://i.pinimg.com/1200x/2d/b4/45/2db4455936e843d61dfcb507a8935257.jpg',
+    img: '/images/Kyrgyzstan.jpg',
   },
 ];
 

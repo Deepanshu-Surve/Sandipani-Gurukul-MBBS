@@ -8,37 +8,37 @@ const allDestinations = [
     name: 'Russia',
     fees: '₹1.5 Lacs*',
     desc: 'Top-tier medical universities with global recognition.',
-    img: 'https://images.unsplash.com/photo-1513326738677-b964603b136d?q=80&w=2049&auto=format&fit=crop',
+    img: '/images/Russia.avif',
   },
   {
     name: 'China',
     fees: '₹3.3 Lacs*',
     desc: 'Southern medical leadership and advanced technology.',
-    img: 'https://i.pinimg.com/736x/1b/17/c5/1b17c5f3669f6833ff94b1bd22cdb222.jpg',
+    img: '/images/china.jpg',
   },
   {
     name: 'Georgia',
     fees: '₹4.0 Lacs*',
     desc: 'Elite European medical education with high-tech clinical bases.',
-    img: 'https://i.pinimg.com/1200x/4c/aa/24/4caa24adbc4ff836d08184d19f457a93.jpg',
+    img: '/images/Georgia.jpg',
   },
   {
     name: 'Kyrgyzstan',
     fees: '₹3.5 Lacs*',
     desc: 'English medium Excellence with modern labs.',
-    img: 'https://i.pinimg.com/1200x/2d/b4/45/2db4455936e843d61dfcb507a8935257.jpg',
+    img: '/images/Kyrgyzstan.jpg',
   },
   {
     name: 'Uzbekistan',
     fees: '₹3.0 Lacs*',
     desc: 'Highest FMGE passing ratio and cultural heritage.',
-    img: 'https://i.pinimg.com/736x/e5/72/cb/e572cb0a4c6cd1047ddddc7d2ef7f58d.jpg',
+    img: '/images/Uzbekistan.jpg',
   },
   {
     name: 'Kazakhstan',
     fees: '₹4.7 Lacs*',
     desc: 'High standard of living and modern laboratory facilities.',
-    img: 'https://i.pinimg.com/1200x/3d/27/71/3d2771f20e558a4a46f337c9c6a54826.jpg',
+    img: '/images/Kazakhstan.jpg',
   },
 ];
 

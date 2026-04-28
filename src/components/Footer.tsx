@@ -69,15 +69,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="pt-8 border-t border-surface-container flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-on-surface-variant/60 uppercase tracking-widest">
-          <p>© 2024 Sandipani Gurukul. Visionary Medical Education Consultancy.</p>
-          <div className="flex gap-8">
-            <a href="#" className="hover:text-primary transition-colors">Facebook</a>
-            <a href="#" className="hover:text-primary transition-colors">LinkedIn</a>
-            <a href="#" className="hover:text-primary transition-colors">Instagram</a>
-            <a href="#" className="hover:text-primary transition-colors">Twitter</a>
-          </div>
-        </div>
+       
       </div>
     </footer>
   );

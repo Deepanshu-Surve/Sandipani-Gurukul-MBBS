@@ -36,9 +36,13 @@ export default function Navbar() {
       {/* Top Header - Branding & Primary Actions */}
       <header className="fixed top-0 w-full z-50 bg-white/70 backdrop-blur-md shadow-[0_20px_40px_rgba(10,94,150,0.04)] flex justify-between items-center px-6 md:px-12 h-20 transition-all duration-300">
         <Link to="/" className="flex items-center gap-3">
-          <div className="w-10 h-10 rounded-full bg-primary-fixed flex items-center justify-center shadow-[inset_0_0_10px_rgba(10,94,150,0.2)]">
-            <Stethoscope className="text-primary w-6 h-6" />
-          </div>
+        <div className="w-10 h-10 rounded-full bg-primary-fixed flex items-center justify-center overflow-hidden shadow-[inset_0_0_10px_rgba(10,94,150,0.2)]">
+  <img 
+    src="/images/logo.jpeg" 
+    alt="Logo"
+    className="w-full h-full object-cover"
+  />
+</div>
           <span className="text-xl font-bold text-primary font-headline tracking-tight">Sandipani Gurukul</span>
         </Link>
 

@@ -90,7 +90,7 @@ export default function EligibilityCriteria() {
             <div className="absolute -inset-4 bg-primary/5 rounded-[4rem] blur-3xl" />
             <div className="relative glass-card p-4 rounded-[4rem] overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=2070&auto=format&fit=crop"
+                src="/images/eligibility.avif"
                 alt="Professional female surgeon"
                 className="rounded-[3.5rem] w-full aspect-[4/5] object-cover"
                 referrerPolicy="no-referrer"

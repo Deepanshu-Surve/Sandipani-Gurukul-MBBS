@@ -86,7 +86,7 @@ export default function AboutPage() {
             <div className="relative aspect-square rounded-[3rem] overflow-hidden shadow-2xl border border-white/20">
               <img 
                 className="w-full h-full object-cover" 
-                src="https://i.pinimg.com/1200x/f1/ba/75/f1ba751c86b1a826cef3b1477332bd0f.jpg" 
+                src="images/Medical architecture.jpg" 
                 alt="Medical architecture"
                 referrerPolicy="no-referrer"
               />
@@ -180,19 +180,27 @@ export default function AboutPage() {
           <div className="relative order-2 lg:order-1">
             <div className="grid grid-cols-2 gap-6">
               <div className="space-y-6 pt-12">
-                <img className="w-full rounded-3xl shadow-2xl" src="https://i.pinimg.com/1200x/83/df/13/83df138a6f937064ba5e5c5d9f57d2c5.jpg" alt="Med 1" referrerPolicy="no-referrer" />
-                <img className="w-full rounded-3xl shadow-2xl" src="https://i.pinimg.com/736x/82/88/13/828813f2a755647fb2521e879839c308.jpg" alt="Med 2" referrerPolicy="no-referrer" />
+                <img className="w-full rounded-3xl shadow-2xl" src="/images/med1.jpg" alt="Med 1" referrerPolicy="no-referrer" />
+                <img className="w-full rounded-3xl shadow-2xl" src="/images/med2.jpg" alt="Med 2" referrerPolicy="no-referrer" />
               </div>
               <div className="space-y-6">
-                <img className="w-full rounded-3xl shadow-2xl" src="https://i.pinimg.com/736x/ef/14/f4/ef14f4ce84ebf760ac80699a423426e8.jpg" alt="Med 3" referrerPolicy="no-referrer" />
+                <img className="w-full rounded-3xl shadow-2xl" src="/images/med3.jpg" alt="Med 3" referrerPolicy="no-referrer" />
                 <div className="aspect-square bg-primary-fixed text-primary rounded-3xl flex items-center justify-center p-8 shadow-inner">
                   <Stethoscope className="w-20 h-20" />
                 </div>
               </div>
             </div>
-            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-32 h-32 bg-white rounded-full flex items-center justify-center shadow-2xl border-[12px] border-surface z-20">
-              <span className="text-primary font-headline font-black text-3xl">SG</span>
-            </div>
+           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 
+  w-36 h-36 bg-white rounded-full flex items-center justify-center 
+  shadow-2xl border-[10px] border-surface z-20 overflow-hidden">
+
+  <img 
+    src="/images/logo.jpeg" 
+    alt="logo"
+    className="w-full h-full object-cover scale-125"
+  />
+
+</div>
           </div>
           
           <div className="order-1 lg:order-2">

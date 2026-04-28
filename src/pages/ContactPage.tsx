@@ -97,6 +97,8 @@ export default function ContactPage() {
                     <option>Uzbekistan</option>
                     <option>Kazakhstan</option>
                     <option>Georgia</option>
+                    <option>Kyrgyzstan</option>
+                    <option>China</option>
                   </select>
                 </div>
                 <div className="space-y-2">

@@ -9,7 +9,7 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <img
           className="w-full h-full object-cover opacity-10 pointer-events-none"
-          src="https://images.unsplash.com/photo-1710582308582-55cc0c461c4e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bXVtYmFpJTIwYnVpbGRpbmd8ZW58MHx8MHx8fDA%3D"
+          src="/images/hero-bg.jpg"
           alt="Medical university campus"
           referrerPolicy="no-referrer"
         />
@@ -68,7 +68,7 @@ export default function Hero() {
           <div className="glass-card p-4 rounded-[3rem] relative z-10 overflow-hidden group">
             <img
               className="rounded-[2.5rem] w-full aspect-[4/5] object-cover transition-transform duration-700 group-hover:scale-105"
-              src="https://i.pinimg.com/736x/22/ad/36/22ad36e484cb52f8ff1f77df8ef0e254.jpg"
+              src="/images/hero.jpg"
               alt="Medical student"
               referrerPolicy="no-referrer"
             />
