@@ -82,7 +82,12 @@ export default function Hero() {
               <div className="flex items-center gap-4 mb-3">
                 <div className="flex -space-x-3">
                   {[1, 2, 3].map((i) => (
-                    <div key={i} className="w-10 h-10 rounded-full border-2 border-white bg-surface-container-highest" />
+                    <img
+                      key={i}
+                      src={`/images/student${i}.png`}
+                      alt={`Placed Student ${i}`}
+                      className="w-10 h-10 rounded-full border-2 border-white object-cover bg-surface-container-highest"
+                    />
                   ))}
                 </div>
                 <div className="text-xs font-bold text-on-surface flex items-center gap-1">
