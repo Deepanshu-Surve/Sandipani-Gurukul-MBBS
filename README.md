@@ -8,7 +8,7 @@ Designed for real-world consultancy use, this platform bridges the gap between *
 
 ## 🌐 Live Website
 
-🚀 *Deploying Soon *
+🚀 https://sandipanigurukulmbbs.com/
 
 ---
 
