@@ -191,8 +191,8 @@ This platform is actively designed for:
 ## ☎️ Contact
 
 * 📞 **Helpline**: +91 91743 47577
-* 📧 **Email**: [sandipanigurukul@example.com](mailto:sandipanigurukul@example.com)
-* 🌐 **Website**: *Launching Soon*
+* 📧 **Email**: (info@sandipanigurukulmbbs.com)
+* 🌐 **Website**: (https://sandipanigurukulmbbs.com/)
 
 ---
 
